@@ -1,18 +1,18 @@
 body {
     margin: 50px;
-    font-family: "Zalando Sans Expanded", sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;
     font-size: 1.3rem;
-    color:rgb(23, 76, 78);
+    color: #9e7eb9;
     background-color: rgb(211, 236, 237);
     text-align: center;
 }
 
 main {
     padding: 50px;
-    border: 1px solid rgb(23, 76, 78);
+    border: 1px solid #9e7eb9;
     width: 80%;
     margin: 0 auto;
     text-align: left;
